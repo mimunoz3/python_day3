@@ -39,5 +39,5 @@ age = 16 #no quotes around the number
 height = 5.2 #a number with a decimal point
 #boolean are true or false values
 is_student = True #True or False
-#lists are a collection of data
+#lists are a collection of datag
 
